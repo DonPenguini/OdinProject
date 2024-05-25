@@ -6,7 +6,7 @@
 
     -for comments, we could use the shortcut ctrl + / 
 
-    -The HTML <"mark"> element defines text that should be marked or highlighted
+    -The HTML ```<mark>``` element defines text that should be marked or highlighted
 
     -The HTML <"del"> element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text:
 
