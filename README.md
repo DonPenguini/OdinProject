@@ -14,7 +14,7 @@
 
     -The HTML <"sup"> element defines superscript text
 
-    - pair target="_blank_" with rel="noopener noreferrer".
+    -In the anchor tag, put target="_blank_" with rel="noopener noreferrer".(for opening in a new page)
 
      The noopener value prevents the opened link from gaining access to the webpage from which it was opened.
      The noreferrer value prevents the opened link from knowing which webpage or resource has a link (or 
