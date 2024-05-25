@@ -1,12 +1,12 @@
 # OdinProject
 
-HTML:-
+##HTML:-
     -type ! on the first line on github to get the boilerplate
     -for comments, we could use the shortcut ctrl + / 
-    -The HTML <mark> element defines text that should be marked or highlighted
-    -The HTML <del> element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text:
-    -The HTML <sub> element defines subscript text. 
-    -The HTML <sup> element defines superscript text
+    -The HTML <"mark"> element defines text that should be marked or highlighted
+    -The HTML <"del"> element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text:
+    -The HTML <"sub"> element defines subscript text. 
+    -The HTML <"sup"> element defines superscript text
     - pair target="_blank_" with rel="noopener noreferrer".
     The noopener value prevents the opened link from gaining access to the webpage from which it was opened. The noreferrer value prevents the opened link from knowing which webpage or resource has a link (or ‘reference’) to it. It also includes the noopener behaviour and thus can be used by itself as well.
 
