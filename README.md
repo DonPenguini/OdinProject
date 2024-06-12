@@ -25,4 +25,7 @@
      webpage to a different one to trick users. This is referred to as tabnabbing. Adding the noreferrer 
      value can be done if you wish to not let the opened link know that your webpage links to it.
 
+## CSS
 
+-We can add multiples classes to a single element as a space-separated list, such as           class="alert-text severe-alert". Since whitespace is used to separate class names like this, you should never use spaces for multi-worded names and should use a hyphen instead. But elements can only have one ID and cannot be repeated on a single page and should not contain any whitespace.
+-For class Selectors, use '.' and for ID selectors, use '#'
